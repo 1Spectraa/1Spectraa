@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @1Spectraa
 - 👀 I’m interested in coding, aviation, cars, and the way things work.
-- 🌱 I’m currently learning Javascript
+- 🌱 I’m currently learning HTML, CSS, Javascript.
 - 💞️ I’m looking to collaborate on anything that will help me learn to code
 - 📫 How to reach me ...
 - ⚡ Fun fact: I'm a student pilot!
